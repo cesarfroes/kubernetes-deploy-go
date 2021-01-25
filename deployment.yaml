@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.rancher.watchplug.com
+  - host: go.rancher.localhost.com
     http:
       paths:
         - path: /
